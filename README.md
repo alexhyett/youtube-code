@@ -8,6 +8,7 @@ I will add new code as soon as I am done editing the videos. So, you might find 
 
 | Date Published | Video                                                                                                 | Link                                                             |
 | -------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 2022-11-25     | [Stack vs Heap](https://youtu.be/5OJRqkYbK-4)                                                         | [code](2022-11-25-Stack-Vs-Heap)                                 |
 | 2022-11-11     | [Automate Your Life With Python (File Management Step By Step Example)](https://youtu.be/1dgnl7oCVTY) | [code](2022-11-11-Automate-Your-Life-With-Python/move-photos.py) |
 | 2022-10-21     | [Bitwise Operators and WHY we use them](https://youtu.be/igIjGxF2J-w)                                 | [code](2022-10-21-Bitwise-Operators-and-WHY-we-use-them)         |
 | 2022-10-10     | [6 Coding Concepts You MUST Know For Beginners](https://youtu.be/pKFcVs2HibA)                         | [code](2022-10-10-6-Coding-Concepts-You-MUST-Know-For-Beginners) |
