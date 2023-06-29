@@ -1,7 +1,7 @@
 # Code featured in my YouTube videos
-Thank you 🙏🏻 for becoming a sponsor ❤️. I really do appreciate your support.
+Thank you 🙏🏻 for becoming a paid subscriber ❤️. I really do appreciate your support.
 
-This repository contains all the code from my YouTube videos. Unfortunately GitHub sponsors doesn't yet allow me to assign multiple repositories for sponsors. If they do in the future I might split this repository up a bit.
+This repository contains all the code from my YouTube videos.
 
 ## Index of all the code by YouTube video and date
 I will add new code as soon as I am done editing the videos. So, you might find the latest on this video hasn't been released yet.
