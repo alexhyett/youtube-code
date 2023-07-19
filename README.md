@@ -1,7 +1,7 @@
 # Code featured in my YouTube videos
 Thank you 🙏🏻 for becoming a paid subscriber ❤️. I really do appreciate your support.
 
-This repository contains all the code from my YouTube videos.
+This repository contains all the code from the following YouTube videos. The code from the other videos have their own separate repository.
 
 ## Index of all the code by YouTube video and date
 I will add new code as soon as I am done editing the videos. So, you might find the latest on this video hasn't been released yet.
